@@ -28,7 +28,7 @@
     <application
         android:icon="@drawable/ic_launcher"
         android:label="abc.xyz"
-        android:theme="@style/Theme.Dialog"
+        android:theme="@style/Theme.Dialog.Broken"
         android:allowBackup="true">
 
         <activity

@@ -8,7 +8,9 @@
       <item name="android:layout_height">wrap_content</item>
       <item name="windowActionBar">false</item>
       <item name="windowNoTitle">true</item>
-      <!--<item name="android:minWidth">200dp</item>-->
+   </style>
+   <style name="Theme.Dialog.Broken" parent="Theme.Dialog">
+      <item name="android:minWidth">200dp</item>
    </style>
 
 </resources>
